@@ -1,0 +1,4 @@
+y.molumo@alustudent.com, 27, 001
+c.pikita@alustudent.com, 21, 002
+g.donemmanu@alustudent.com, 20, 003
+k.gitego@alustudent.com, 21, 004
