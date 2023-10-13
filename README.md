@@ -1,4 +1,13 @@
-This is how the application is used for question one
+# BSE GROUP CODING SUMMATIVE
+---
+## Negpod 10
+---
+## Table of Contents
+---
+## Summary
+---
+## Description
+### Question 1
 
 After creating the four files which are main.sh- the script file containing the code to Create the student record, Save each student record in a file under the name “students-list_0923.txt”, View all students saved in the file and list them on the terminal, Delete the student in the file (By using the student ID), Update the student record in the list (By using the student ID) and Exit the application. To run the main.sh script file. Use this command ./main.sh and follow the steps showed on how to use the application.
 
