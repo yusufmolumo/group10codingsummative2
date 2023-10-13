@@ -28,11 +28,35 @@ We created four files which are:
 So you should have all the four files required for question 1 and how to run the scripts
 
 ### Steps to using the ALU Student Registration System
-1. To create a student record:
+1. **To create a student record:**
 - Run  the `./main.sh`
+- Select option 1
+- Enter student email
 ![BSE_1](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/ba8e7c61-dcaf-46af-b330-4a2736a12f31)
 
-2. 
+2. **To view all students:**
+- Run the `./main.sh`
+- Select option 2
+![BSE_2](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/2dbcf24e-ef04-4113-b6a4-89dcea06dea4)
+
+3. **To delete a student record:**
+- Run the `./main.sh`
+- Select option 3
+- Enter Student ID to delete
+![BSE_3](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/5566857a-8a77-4e9c-af00-ea1d54b77494)
+
+4. **To update a student record:**
+- Run the `./main.sh` script
+- Select option 4
+- Enter Student ID to update
+- Enter new student email
+- Enter new age
+![BSE_4](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/f35a0a18-43d1-47ec-b776-67ad88ee46bc)
+
+5. **To select emails:**
+- Run the `./main.sh` script
+- Select option 5
+![BSE_5](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/904506ee-25aa-4548-813e-c89f0affbbd4)
 
 ---
 
