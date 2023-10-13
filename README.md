@@ -1,16 +1,15 @@
 # BSE GROUP CODING SUMMATIVE
----
+
 ## Negpod 10
----
+
 ## Table of Contents
-- Summary
-- Description
-- Contributors
----
+- [Summary](#Summary)
+- [Description](#Description)
+- [Contributors](#Desription)
+  
 ## Summary
 The ALU Student Registration System is an application that takes user input and loads and builds the Bachelor of Software Engineering cohort list of students. The inputs the application takes are the following information (student email, age, and student ID).
 
----
 ## Description
 
 ### Question 1
@@ -58,8 +57,6 @@ So you should have all the four files required for question 1 and how to run the
 - Select option 5
 ![BSE_5](https://github.com/yusufmolumo/group10codingsummative2/assets/112552126/904506ee-25aa-4548-813e-c89f0affbbd4)
 
----
-
 ### Question 2
 
 1. We Created a shell script to automatically move all 4 files created in question 1 in a directory with the name **negpod_id-q1**. We named our directory **negpod_10-q1**
@@ -70,7 +67,6 @@ The name of the script is **move-to-directory.sh** and when you run the script f
 To complete the backup to a remote sever computer we installed rsync and we used an sshpass. So to run the backup-Negpod_10.sh script file you need to install rsync on your terminal.
 To do that type "sudo apt-get install rsync"
 
----
 ### Contributors:
 1. [Yusuf Molumo](https://github.com/yusufmolumo)
 2. [Clinton Pikita](https://github.com/Clint07-datascientist)
