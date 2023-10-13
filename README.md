@@ -5,6 +5,8 @@
 ## Table of Contents
 - [Summary](#Summary)
 - [Description](#Description)
+    -[Question 1](#Question 1)
+    -[Question 2](#Question 2)
 - [Contributors](#Contributors)
   
 ## Summary
@@ -27,7 +29,7 @@ We created four files which are:
 
 So you should have all the four files required for question 1 and how to run the scripts
 
-### Steps to using the ALU Student Registration System
+### Testing the ALU Student Registration System
 1. **To create a student record:**
 - Run  the `./main.sh`
 - Select option 1
