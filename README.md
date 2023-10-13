@@ -19,6 +19,7 @@ We created four files which are:
 4. **student-emails.txt** : A text file that saves all the emails gotten after you run the select-emails.sh script file. So all the emails that's gotten after you run the select-emails.sh script file would be saved in student-emails.txt
 
 So you should have all the four files required for question 1 and how to run the scripts
+
 ---
 
 ### Question 2
@@ -30,6 +31,7 @@ The name of the script is **move-to-directory.sh** and when you run the script f
 
 To complete the backup to a remote sever computer we installed rsync and we used an sshpass. So to run the backup-Negpod_10.sh script file you need to install rsync on your terminal.
 To do that type "sudo apt-get install rsync"
+
 ---
 ### Contributors:
 1. [Yusuf Molumo](https://github.com/yusufmolumo)
