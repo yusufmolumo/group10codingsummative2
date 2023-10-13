@@ -10,6 +10,8 @@
 ## Summary
 The ALU Student Registration System is an application that takes user input and loads and builds the Bachelor of Software Engineering cohort list of students. The inputs the application takes are the following information (student email, age, and student ID).
 
+---
+
 ## Description
 
 ### Question 1
@@ -70,6 +72,8 @@ The name of the script is `move-to-directory.sh` and when you run the script fil
 
 To complete the backup to a remote sever computer we installed rsync and we used an sshpass. So to run the `backup-Negpod_10.sh` script file you need to install rsync on your terminal.
 To do that type "sudo apt-get install rsync"
+
+---
 
 ### Contributors:
 1. [Yusuf Molumo](https://github.com/yusufmolumo)
