@@ -3,20 +3,25 @@
 ## Negpod 10
 ---
 ## Table of Contents
+- Summary
+- Description
+- Contributors
 ---
-## Summary
+## Summary: ALU Student Registration System
+The ALU Student Registration System is an application that takes user input and loads and builds the Bachelor of Software Engineering cohort list of students. The inputs the application takes are the following information (student email, age, and student ID).
+
 ---
 ## Description
 ### Question 1
 
 We created four files which are:
-1. **main.sh** : the script file containing the code to Create the student record, Save each student record in a file under the name “students-list_0923.txt”, View all students saved in the file and list them on the terminal, Delete the student in the file (By using the student ID), Update the student record in the list (By using the student ID) and Exit the application. To run the main.sh script file. Use this command ./main.sh and follow the steps showed on how to use the application.
+1. **main.sh**: the script file containing the code to Create the student record, Save each student record in a file under the name “students-list_0923.txt”, View all students saved in the file and list them on the terminal, Delete the student in the file (By using the student ID), Update the student record in the list (By using the student ID) and Exit the application. To run the main.sh script file. Use this command ./main.sh and follow the steps showed on how to use the application.
    
-2. **Students-list_0923.txt** : This is where all the information gotten from the main.sh and all the information a user provided when using the application is stored. The information to be stored is the (student email, age, and student ID)
+2. **Students-list_0923.txt**: This is where all the information gotten from the main.sh and all the information a user provided when using the application is stored. The information to be stored is the (student email, age, and student ID)
 
-3. **select-emails.sh** : that get's all the student emails from the students-list_0923.txt file. To run the script file, use this command in  your command line ./select-emails.sh
+3. **select-emails.sh**: that get's all the student emails from the students-list_0923.txt file. To run the script file, use this command in  your command line ./select-emails.sh
 
-4. **student-emails.txt** : A text file that saves all the emails gotten after you run the select-emails.sh script file. So all the emails that's gotten after you run the select-emails.sh script file would be saved in student-emails.txt
+4. **student-emails.txt**: A text file that saves all the emails gotten after you run the select-emails.sh script file. So all the emails that's gotten after you run the select-emails.sh script file would be saved in student-emails.txt
 
 So you should have all the four files required for question 1 and how to run the scripts
 
