@@ -5,8 +5,6 @@
 ## Table of Contents
 - [Summary](#Summary)
 - [Description](#Description)
-  -[Question 1](#Question 1)
-  -[Question 2](#Question 2)
 - [Contributors](#Contributors)
   
 ## Summary
